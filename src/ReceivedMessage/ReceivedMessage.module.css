@@ -1,0 +1,22 @@
+.message{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+    background-color: hsla(204, 10%, 90%, 0.765);
+    border-radius: 20px;
+    width: fit-content;
+    max-width: 30vw;
+    min-height: 50px;
+    padding: 3px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    box-shadow: 2px 2px 20px 1px #888888;
+}
+
+.message p{
+    margin: 5px 20px 5px 20px;
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Roboto', 'Open Sans', Arial, sans-serif;
+}
